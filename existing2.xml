@@ -30,6 +30,7 @@
     <frontmatter>
       <doctitle>Book Title</doctitle>
       <docauthor>Book Author</docauthor>
+      <docauthor>Book Description</docauthor>
     </frontmatter>
   </book>
 </dtbook>
