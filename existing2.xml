@@ -31,11 +31,9 @@
       <doctitle>Book Title</doctitle>
       <docauthor>Book Author</docauthor>
 
-<<<<<<< HEAD
-      <docauthor>Book Desc2</docauthor>
-=======
-      <docauthor>Book Desc1</docauthor>
->>>>>>> 475a7956e0a671cedcf67a55e6d39044fda2cf74
+
+      <docauthor>Book Desc1_1</docauthor>
+
     </frontmatter>
   </book>
 </dtbook>
