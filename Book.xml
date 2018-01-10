@@ -6,11 +6,9 @@
   xmlns:mml="http://www.w3.org/1998/Math/MathML">
   <book-meta>
     <book-title-group>
-<<<<<<< HEAD
-      <book-title>ooo_1</book-title>
-=======
-      <book-title>ooo1</book-title>
->>>>>>> branch 'default_branch' of https://github.com/irinanadolu/SyncUtil.git
+
+      <book-title>book1</book-title>
+
     </book-title-group>
     <contrib-group>
       <contrib>
