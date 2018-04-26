@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
 <topic id="topic-1">
-  <title><b>Salviadd</b></title>
+  <title><b>Salviadd</b>
+    <?oxy_delete author="irinanadolu" timestamp="20180426T115300+0300" content="ddd"?></title>
   <body>
     <!-- comment1-->
     <p><i>From Wikipedia, the free encyclopedia.</i></p>
@@ -60,3 +61,4 @@
 </topic>
 
 
+<?oxy_options track_changes="on"?>
